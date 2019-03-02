@@ -11,8 +11,8 @@ class App extends Component {
     render() {
         return(
             <div>
-                <Navigation LogoTitle="Kayla Vincenzetti" />
-                <Header />
+                <Navigation LogoTitle="React Portfolio" />
+            <Header title= "Kayla Vincenzetti"/>
             </div>
         );
     }

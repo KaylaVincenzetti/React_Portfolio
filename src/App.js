@@ -11,7 +11,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to my React Portfolio</h1>
           <p>
-            Hi! I'm Kayla Vincenzetti and I'm a full stack developer, freelancer and teacher based in Denver, Colorado.
+            
           </p>
           <a
             className="App-link"
